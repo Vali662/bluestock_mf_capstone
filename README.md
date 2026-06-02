@@ -40,5 +40,3 @@ bluestock_mf_capstone/
 
 ## Author
 Vali Shaik
-
-Vali Shaik
