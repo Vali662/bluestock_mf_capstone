@@ -1,3 +1,9 @@
+"""
+Mutual Fund Analytics Capstone
+
+Reads raw mutual fund datasets
+for processing and analysis.
+"""
 import pandas as pd
 from pathlib import Path
 

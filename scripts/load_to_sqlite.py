@@ -1,3 +1,8 @@
+"""
+Mutual Fund Analytics Capstone
+
+Loads cleaned datasets into SQLite database.
+"""
 import pandas as pd
 from sqlalchemy import create_engine
 from pathlib import Path

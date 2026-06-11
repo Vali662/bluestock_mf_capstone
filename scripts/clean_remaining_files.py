@@ -1,3 +1,9 @@
+"""
+Mutual Fund Analytics Capstone
+
+Cleans supporting datasets used
+throughout the project.
+"""
 import pandas as pd
 from pathlib import Path
 

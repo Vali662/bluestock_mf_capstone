@@ -1,3 +1,9 @@
+"""
+Mutual Fund Analytics Capstone
+
+Cleans historical NAV data and
+prepares it for analysis.
+"""
 import pandas as pd
 from pathlib import Path
 

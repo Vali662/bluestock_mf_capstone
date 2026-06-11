@@ -1,3 +1,8 @@
+"""
+Mutual Fund Analytics Capstone
+
+Fetches NAV data for mutual funds.
+"""
 import requests
 import pandas as pd
 from pathlib import Path

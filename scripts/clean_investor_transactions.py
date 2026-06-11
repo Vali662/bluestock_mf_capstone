@@ -1,3 +1,8 @@
+"""
+Mutual Fund Analytics Capstone
+
+Cleans and prepares investor transaction data.
+"""
 import pandas as pd
 from pathlib import Path
 

@@ -1,3 +1,8 @@
+"""
+Mutual Fund Analytics Capstone
+
+Generates data quality checks and summaries.
+"""
 import pandas as pd
 from pathlib import Path
 

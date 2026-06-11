@@ -1,3 +1,9 @@
+"""
+Mutual Fund Analytics Capstone
+
+Cleans scheme performance data and
+computes required metrics.
+"""
 import pandas as pd
 from pathlib import Path
 

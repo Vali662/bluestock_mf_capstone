@@ -1,3 +1,9 @@
+"""
+Mutual Fund Analytics Capstone
+
+Recommends top mutual funds based on
+risk grade and Sharpe ratio.
+"""
 from pathlib import Path
 import pandas as pd
 
